@@ -32,6 +32,28 @@ img {
   width: 80%;
 }
 
+.btn {
+  text-align: center;
+  margin: 1rem;
+}
+
+button {
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  color: #ffffff;
+  font-size: 20px;
+  background: #43af8b;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  border: none;
+}
+
+button:hover {
+  background: #419c7e;
+  text-decoration: none;
+}
+
 footer {
   margin-top: 5%;
   color: #EEEEEE;
